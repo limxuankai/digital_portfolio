@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Quicksand", sans-serif;
+    font-family: sans-serif;
     font-size: 62.5%;
     font-size: 10px;
 }
@@ -35,7 +35,7 @@ body {
 }
 
 .nav div.logo a:hover {
-    color: #00E676;
+    color: lightskyblue;
 }
 
 .nav div.main_list {
@@ -67,7 +67,7 @@ body {
 }
 
 .nav div.main_list ul li a:hover {
-    color: #00E676;
+    color: lightskyblue;
 }
 
 
@@ -76,7 +76,7 @@ body {
 .home {
     width: 100%;
     height: 90vh;
-    background-image: url(https://media.istockphoto.com/id/1224500457/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?s=1024x1024&w=is&k=20&c=JHHxZ25gIwgBtYyFxziTFrOuilyogTzs5KQKBhsaZhE=);
+    background-image: url(https://media.istockphoto.com/id/1442946345/photo/software-source-code-programming-code-programming-code-on-computer-screen-developer-working.webp?b=1&s=170667a&w=0&k=20&c=Dgxt0LsK0hkrf1pk4ZdmUPWeFHgjl50JLnipRtrFrR8=);
     background-position: center top;
 	background-size:cover;
 }
@@ -341,7 +341,9 @@ body {
     background-color: #111;
 }
 
-
+footer{
+    background-color: pink;
+}
 
 
 
