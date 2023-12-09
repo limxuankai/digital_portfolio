@@ -91,6 +91,14 @@ body {
     background-position: center top;
 	background-size:cover;
 }
+
+.Resume{
+  width: 100%;
+  height: 50vh;
+  background-image: url(https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/5wmEECloDc1OMWAMEamsQ8/edb1da18b9ce2e661d227312c7d61805/GettyImages-1203940958.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000&h=);
+  background-position: center top;
+background-size:cover;
+}
 .navTrigger {
     display: none;
 }
