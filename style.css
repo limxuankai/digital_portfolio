@@ -99,6 +99,14 @@ body {
   background-position: center top;
 background-size:cover;
 }
+
+.certificate{
+  width: 100%;
+  height: 50vh;
+  background-image: url(https://img.freepik.com/premium-photo/closeup-person-s-hand-stamping-with-passed-approved-stamp-certificate-document-public-paper-desk-notary-business-people-work-from-home-isolated-coronavirus-covid19-protection_33755-12390.jpg?w=1800);
+  background-position: center top;
+  background-size:cover;
+}
 .navTrigger {
     display: none;
 }
