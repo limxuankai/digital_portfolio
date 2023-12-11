@@ -78,7 +78,7 @@ body {
 
 .home {
     width: 100%;
-    height: 90vh;
+    height: 20vh;
     background-image: url(https://media.istockphoto.com/id/1442946345/photo/software-source-code-programming-code-programming-code-on-computer-screen-developer-working.webp?b=1&s=170667a&w=0&k=20&c=Dgxt0LsK0hkrf1pk4ZdmUPWeFHgjl50JLnipRtrFrR8=);
     background-position: center top;
 	background-size:cover;
@@ -86,7 +86,7 @@ body {
 
 .projects{
     width: 100%;
-    height: 100vh;
+    height: 50vh;
     background-image: url(https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17-1024x615.jpg);
     background-position: center top;
 	background-size:cover;
@@ -94,7 +94,7 @@ body {
 
 .Resume{
   width: 100%;
-  height: 50vh;
+  height: 20vh;
   background-image: url(https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/5wmEECloDc1OMWAMEamsQ8/edb1da18b9ce2e661d227312c7d61805/GettyImages-1203940958.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000&h=);
   background-position: center top;
 background-size:cover;
@@ -102,7 +102,7 @@ background-size:cover;
 
 .certificate{
   width: 100%;
-  height: 50vh;
+  height: 20vh;
   background-image: url(https://img.freepik.com/premium-photo/closeup-person-s-hand-stamping-with-passed-approved-stamp-certificate-document-public-paper-desk-notary-business-people-work-from-home-isolated-coronavirus-covid19-protection_33755-12390.jpg?w=1800);
   background-position: center top;
   background-size:cover;
@@ -695,4 +695,10 @@ img {
     width: 960px;
   }
 
+}
+
+.myl{
+  text-decoration: none;
+  text-align: center;
+  font-size: x-large;
 }
